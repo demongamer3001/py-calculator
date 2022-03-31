@@ -1,2 +1,2 @@
-# py-calculator
-Calculator made in python
+# Py Calculator
+### A simple calculator made in python
